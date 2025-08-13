@@ -47,9 +47,9 @@ This repository contains a comprehensive machine learning analysis of the Adult 
 **Data Preprocessing Pipeline**
 
 1. Missing Value Handling
-  - Replaced '?' symbols with null values
-  - Filled missing values with column mode (most frequent value)
-  - Cleaned income column typos (removed '.' character)
+    - Replaced '?' symbols with null values
+    - Filled missing values with column mode (most frequent value)
+    - Cleaned income column typos (removed '.' character)
 2. Feature Engineering
   - **Categorical Encoding:** Applied LabelEncoder to categorical variables
   - **Data Normalization:** Standardized numerical features
