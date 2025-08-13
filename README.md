@@ -51,17 +51,17 @@ This repository contains a comprehensive machine learning analysis of the Adult 
     - Filled missing values with column mode (most frequent value)
     - Cleaned income column typos (removed '.' character)
 2. Feature Engineering
-  - **Categorical Encoding:** Applied LabelEncoder to categorical variables
-  - **Data Normalization:** Standardized numerical features
-  - **Feature Selection:** Analyzed feature importance and correlations
+    - **Categorical Encoding:** Applied LabelEncoder to categorical variables
+    - **Data Normalization:** Standardized numerical features
+    - **Feature Selection:** Analyzed feature importance and correlations
 3. Train-Test Split
-  - Stratified split to maintain class distribution
-  - Standard 80-20 or 70-30 split ratio
+    - Stratified split to maintain class distribution
+    - Standard 80-20 or 70-30 split ratio
 
 ---
 
 ## Model Implementation
-### Decision Trees
+ **Decision Trees**
 
 - **Hyperparameter Tuning:** Grid search across 33 configurations
 - Parameters Optimized:
@@ -93,7 +93,7 @@ This repository contains a comprehensive machine learning analysis of the Adult 
 - Education level emerges as top predictor
 - Age and hours-per-week show strong correlation with income
 
-Contact
+## Contact
 
 - Author: Adela Kushta
 - Email: adelakushta05@gmail.com
