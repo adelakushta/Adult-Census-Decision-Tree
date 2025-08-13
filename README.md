@@ -17,7 +17,7 @@ This repository contains a comprehensive machine learning analysis of the Adult 
 
 ---
 
-## 🔍 Dataset Features
+## Dataset Features
 | Feature          | Type       | Description |
 |------------------|-----------|-------------|
 | Age              | Numerical | Age of individual |
@@ -35,7 +35,7 @@ This repository contains a comprehensive machine learning analysis of the Adult 
 
 ---
 
-## ⚠️ Data Quality Issues
+## Data Quality Issues
 - **Missing Values**: 4,262 missing entries (marked as `?`)  
 - **Affected Columns**: `workclass`, `occupation`, `native-country`  
 - **Data Inconsistency**: `Income` column contains typo with `.` character  
