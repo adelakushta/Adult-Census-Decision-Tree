@@ -71,8 +71,8 @@ This repository contains a comprehensive machine learning analysis of the Adult 
     - **criterion:** ['gini', 'entropy']
     - **max_features:** [None, 'sqrt', 'log2']
  - Evaluation Metrics
-  - Primary Metrics: Accuracy, F1-Score, Precision, Recall
-  - Additional Analysis: Confusion matrices, feature importance
+    - Primary Metrics: Accuracy, F1-Score, Precision, Recall
+    - Additional Analysis: Confusion matrices, feature importance
 
 ---
 
