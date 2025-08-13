@@ -44,7 +44,7 @@ This repository contains a comprehensive machine learning analysis of the Adult 
 ---
 
 ## Methodology
-###Data Preprocessing Pipeline
+**Data Preprocessing Pipeline**
 
 1. Missing Value Handling
   - Replaced '?' symbols with null values
